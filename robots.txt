@@ -1,0 +1,1 @@
+Sitemap: https://jojohannsen.github.io/lgcodegen2/sitemap.xml
