@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://jojohannsen.github.io',
                 'git_url': 'https://github.com/jojohannsen/lgcodegen2',
                 'lib_path': 'lgcodegen2'},
-  'syms': {'lgcodegen2.core': {'lgcodegen2.core.foo': ('core.html#foo', 'lgcodegen2/core.py')}}}
+  'syms': { 'lgcodegen2.core': { 'lgcodegen2.core._expand_commas': ('core.html#_expand_commas', 'lgcodegen2/core.py'),
+                                 'lgcodegen2.core._expand_node_lists': ('core.html#_expand_node_lists', 'lgcodegen2/core.py'),
+                                 'lgcodegen2.core._get_pairs': ('core.html#_get_pairs', 'lgcodegen2/core.py'),
+                                 'lgcodegen2.core.get_graph_data': ('core.html#get_graph_data', 'lgcodegen2/core.py')}}}
