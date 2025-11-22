@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "lgcodegen2"
+  site-url: "https://jojohannsen.github.io/lgcodegen2"
+  description: "Langgraph code generation from Graph Notation"
+  repo-branch: main
+  repo-url: "https://github.com/jojohannsen/lgcodegen2"
